@@ -42,6 +42,6 @@ To run this application, follow these steps:
 ## Submission
 I'm proud to share the completed Tech Blog CMS with you:
 1. [Link to the deployed application](https://your-heroku-app-url.com)
-2. [Link to the GitHub repository](https://github.com/your-github-repo)
+2. [Link to the GitHub repository](https://github.com/Aliviahhilliard/MVC-Tech-Blog)
 
 Feel free to explore the world of tech blogging with the Tech Blog CMS! Happy writing!
